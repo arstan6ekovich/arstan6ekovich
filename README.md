@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-<table align="center">
+<table>
   <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML" />
