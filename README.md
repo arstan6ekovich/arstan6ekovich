@@ -1,14 +1,14 @@
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
+<h1 align="center"><span class="hi">ʜɪ ᴛʜᴇʀᴇ, </span><span class="name">ɪ'ᴍ</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">ᴍᴀʀ𝟦ɪᴋ</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ ᴀʙᴏᴜᴛ ᴍᴇ
 
 <a href="https://github.com/Elkhan2003">
   <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
 </a>
 
-## 📊 My Github Stats
+## 📊 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
