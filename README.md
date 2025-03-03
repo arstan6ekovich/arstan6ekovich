@@ -1,5 +1,5 @@
 
-<h1 align="center"><span class="hi">ʜɪ ᴛʜᴇʀᴇ, </span><span class="name">ɪ'ᴍ</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">ᴍᴀʀ𝟦ɪᴋ</a> 
+<h1 align="center"><span class="hi">ʜɪ ᴛʜᴇʀᴇ, </span><span class="name"> ɪ'ᴍ </span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">ᴍᴀʀ𝟦ɪᴋ</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 🙋‍♂️ ᴀʙᴏᴜᴛ ᴍᴇ
