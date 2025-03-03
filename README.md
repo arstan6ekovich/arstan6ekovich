@@ -22,7 +22,7 @@
 ## 🚀 ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 <br/>
 
-<p align="center">
+<p>
 <table align="center">
   <tr>
     <td align="center" width="80">
