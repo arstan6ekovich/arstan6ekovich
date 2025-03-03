@@ -14,7 +14,7 @@
 
 <div align="" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstan6ekovich&langs_count=10&theme=gotham&layout=compact" width="400" alt="arstan6ekovich :: Top Langs" />
-  <a href="https://github.com/arstan6ekovich?tab=repositories">
+  <a href="https://github.com/arstan6ekovich?tab=repositories" height="500">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=arstan6ekovich&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400px" alt="@arstan6ekovich's github-readme-stats"/>
   </a>
 </div>
