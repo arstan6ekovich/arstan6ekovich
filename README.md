@@ -25,19 +25,81 @@
 
 ## 🚀 Languages and Tools
 
-<p align="left">
-    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
-    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
-    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
-    <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
-    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
-    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="43" height="43" alt="Zustand" />
+      </a>
+      <br>Zustand
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
+      <br>Java
+    </td> 
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" />
+      <br>WebStorm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="43" height="43" alt="NestJS"/>
+      <br>NestJS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+  </tr>
+</table>
 </p>
 
 <br/>
@@ -45,10 +107,15 @@
 ## 🔖 My contacts
 
 <div class="contacts">
-  <a href="https://wa.me/996990385056"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/Elcho911"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/elcho911"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
-  <a href="https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-  <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+  <a href="https://wa.me/996995002289"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/marlen_dev"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://www.instagram.com/arstan6ekowich"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+  <a href="https://youtube.com/@mar4ik_devs?si=ABxPCBSmRIPMItjR"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
