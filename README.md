@@ -10,18 +10,19 @@
 
 ## 📊 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
 
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/arstan6ekovich">
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Привет,+меня+зовут+Марлен;Hello,+my+name+is+Marlen&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
 </a>
-<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-</a>
-</div>
 
 <p align="center">
-    <a href="https://github.com/Elkhan2003">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstan6ekovich&langs_count=10&theme=gotham&layout=compact" width="430px" alt="arstan6ekovich :: Top Langs" />
 </p>
+
+<p align="center">
+    <a href="https://github.com/arstan6ekovich?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=arstan6ekovich&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"    width="400px" alt="@arstan6ekovich's github-readme-stats"/></a>
+    <a href="https://github.com/arstan6ekovich?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=arstan6ekovich&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="400px" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
 
 ## 🚀 ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 <br/>
