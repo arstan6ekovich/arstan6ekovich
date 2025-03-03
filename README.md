@@ -23,7 +23,8 @@
     </a>
 </p>
 
-## 🚀 Languages and Tools
+## 🚀 ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+<br/>
 
 <p align="center">
 <table align="center">
@@ -104,7 +105,7 @@
 
 <br/>
 
-## 🔖 My contacts
+## 🔖 ᴍʏ ᴄᴏɴᴛᴀᴄᴛꜱ
 
 <div class="contacts">
   <a href="https://wa.me/996995002289"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
