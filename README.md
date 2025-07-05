@@ -5,7 +5,7 @@
 ## 🙋‍♂️ ᴀʙᴏᴜᴛ ᴍᴇ
 
 <a href="https://github.com/arsatn6ekovich">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+  <img height="10" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
 </a>
 
 ## 📊 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
