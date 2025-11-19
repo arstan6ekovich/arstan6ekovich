@@ -1,6 +1,6 @@
 
 <h1 align="center"><span class="hi">ʜɪ ᴛʜᴇʀᴇ, </span><span class="name"> ɪ'ᴍ </span> <a class="hi" href="https://github.com/arsatn6ekovich" target="_blank">ᴍᴀʀ𝟦ɪᴋ</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42"/></h1>
 
 ## 🙋‍♂️ ᴀʙᴏᴜᴛ ᴍᴇ
 
